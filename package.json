@@ -1,0 +1,34 @@
+{
+  "name": "fcc-timestamp",
+  "version": "1.0.0",
+  "description": "For building FCC timestamp API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherSpock/fcc-timestamp-microservice.git"
+  },
+  "keywords": [
+    "timestamp",
+    "API",
+    "node",
+    "Rafase282",
+    "SherSpock"
+  ],
+  "author": "Rafase282, SherSpock",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SherSpock/fcc-timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/SherSpock/fcc-timestamp-microservice#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "moment": "^2.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  }
+}
